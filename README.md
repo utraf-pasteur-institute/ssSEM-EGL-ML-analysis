@@ -1,11 +1,11 @@
 # ssSEM-EGL-ML-analysis
-EGL ML analysis in ssSEM volume
+EGL ML analysis in ssSEM volume<br>
 
 **egl-ml-200regions-clean-cnn1.ipynb**<br>
-Input data augmentation
-Train the CNN
+1. Input data augmentation<br>
+2. Train the CNN<br>
 
 **generate_EGL-ML_boundary_2.ipynb**<br>
-Use trained model and perform inference on new dataset (tiles from full EM volume)<br>
-Reconstruct EGL|ML boundary using a ball-pivoting algorithm
+1. Use trained model and perform inference on new dataset (tiles from full EM volume)<br>
+2. Reconstruct EGL|ML boundary using a ball-pivoting algorithm<br>
 
