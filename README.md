@@ -9,4 +9,4 @@ EGL ML analysis in ssSEM volume<br>
 1. Use trained model and perform inference on new dataset (tiles from full EM volume)<br>
 2. Reconstruct EGL|ML boundary using a ball-pivoting algorithm<br>
 
-Datasets and the trained CNN model can be obtained upon request (email: harshavardha.khare@pasteur.fr, chiara.zurzolo@pasteur.fr)<br>
+Datasets and the trained CNN model can be obtained upon request (email: harshavardhan.khare@pasteur.fr, chiara.zurzolo@pasteur.fr)<br>
