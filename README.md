@@ -10,3 +10,8 @@ EGL ML analysis in ssSEM volume<br>
 2. Reconstruct EGL|ML boundary using a ball-pivoting algorithm<br>
 
 Datasets and the trained CNN model can be obtained upon request (email: harshavardhan.khare@pasteur.fr, chiara.zurzolo@pasteur.fr)<br>
+
+
+**Acknowledgements:**<br>
+Authors acknowledge Pradumn Chavan (link) for the preliminary work on the design of the convolutional neural network model.<br>
+
