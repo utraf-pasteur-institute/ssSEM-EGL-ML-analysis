@@ -13,5 +13,5 @@ Datasets and the trained CNN model can be obtained upon request (email: harshava
 
 
 **Acknowledgements:**<br>
-Authors acknowledge Pradumn Chavan (link) for the preliminary work on the design of the convolutional neural network model.<br>
+Authors acknowledge <a href="https://github.com/pradumnpc" target="_blank">Pradumn Chavan</a> for the preliminary work on the design of the convolutional neural network model.<br>
 
